@@ -1,4 +1,10 @@
 .vs/
-obj/
-bin/
+.idea/
+**/bin/
+**/obj/
 *.user
+*.suo
+*.userprefs
+TestResults/
+artifacts/
+*.nupkg

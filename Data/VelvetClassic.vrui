@@ -1,0 +1,97 @@
+{
+  "Schema": 1,
+  "Kind": "ui-pack",
+  "Theme": {
+    "PackName": "Velvet Classic",
+    "Author": "Velvet Rope",
+    "Description": "The signature velvet lounge theme.",
+    "BrandMark": "\u25c6",
+    "BrandTitle": "VELVET ROPE",
+    "Tagline": "Venue guest & VIP management",
+    "Background": {
+      "R": 0.055,
+      "G": 0.03,
+      "B": 0.052,
+      "A": 1.0
+    },
+    "Card": {
+      "R": 0.095,
+      "G": 0.05,
+      "B": 0.078,
+      "A": 1.0
+    },
+    "CardRaised": {
+      "R": 0.135,
+      "G": 0.064,
+      "B": 0.092,
+      "A": 1.0
+    },
+    "Primary": {
+      "R": 0.47,
+      "G": 0.075,
+      "B": 0.17,
+      "A": 1.0
+    },
+    "PrimaryBright": {
+      "R": 0.7,
+      "G": 0.13,
+      "B": 0.27,
+      "A": 1.0
+    },
+    "Accent": {
+      "R": 0.86,
+      "G": 0.7,
+      "B": 0.39,
+      "A": 1.0
+    },
+    "AccentDim": {
+      "R": 0.46,
+      "G": 0.35,
+      "B": 0.2,
+      "A": 1.0
+    },
+    "Text": {
+      "R": 0.95,
+      "G": 0.91,
+      "B": 0.84,
+      "A": 1.0
+    },
+    "MutedText": {
+      "R": 0.66,
+      "G": 0.55,
+      "B": 0.62,
+      "A": 1.0
+    },
+    "Success": {
+      "R": 0.38,
+      "G": 0.83,
+      "B": 0.6,
+      "A": 1.0
+    },
+    "VipMetric": {
+      "R": 0.9,
+      "G": 0.38,
+      "B": 0.58,
+      "A": 1.0
+    },
+    "PeakMetric": {
+      "R": 0.65,
+      "G": 0.43,
+      "B": 0.89,
+      "A": 1.0
+    },
+    "SecondaryMetric": {
+      "R": 0.38,
+      "G": 0.66,
+      "B": 0.91,
+      "A": 1.0
+    },
+    "CornerRounding": 7.0,
+    "FrameRounding": 5.0,
+    "BorderSize": 1.0,
+    "ControlPaddingY": 8.0,
+    "ItemSpacing": 8.0,
+    "SidebarWidth": 200.0,
+    "ShowBrandTagline": true
+  }
+}

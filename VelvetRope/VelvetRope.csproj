@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.3.10.0</Version>
+    <Author>Velvet Rope contributors</Author>
+    <Name>Velvet Rope</Name>
+    <Punchline>Venue profiles, VIP arrival alerts, and privacy-first shift reporting.</Punchline>
+    <Description>Velvet Rope helps FFXIV venue staff manage venue-specific VIP and staff relationships, tier benefits, arrival tools, native nameplate markers, and anonymous aggregate attendance reports. Use /vr to open the dashboard.</Description>
+    <RepoUrl>https://github.com/YOUR_GITHUB_USERNAME/VelvetRope</RepoUrl>
+    <Tags>venue;vip;roleplay;utility;attendance</Tags>
+    <PackageProjectUrl>https://github.com/YOUR_GITHUB_USERNAME/VelvetRope</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="..\Data\VelvetClassic.vrui">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+  </ItemGroup>
+</Project>

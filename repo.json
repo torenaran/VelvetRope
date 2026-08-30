@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "Velvet Rope contributors",
+    "Name": "Velvet Rope",
+    "Punchline": "Venue profiles, VIP arrival alerts, and privacy-first shift reporting.",
+    "Description": "A privacy-first venue door and VIP management plugin for FFXIV. Includes venue-specific VIP and staff relationships, tier benefits, Add Target, right-click tools, native nameplate markers, UI packs, and anonymous aggregate shift reports.",
+    "InternalName": "VelvetRope",
+    "AssemblyVersion": "0.3.10.0",
+    "RepoUrl": "https://github.com/torenaran/VelvetRope",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/torenaran/VelvetRope/releases/download/v0.3.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/torenaran/VelvetRope/releases/download/v0.3.10/latest.zip",
+    "LastUpdate": "1787970261",
+    "Changelog": "0.3.10 adds optional VIP tiering per venue relationship and neutral category nameplate markers for non-tiered staff, DJs, owners, partners, regulars, and other roles.",
+    "Tags": ["venue", "vip", "roleplay", "utility", "attendance"]
+  }
+]
