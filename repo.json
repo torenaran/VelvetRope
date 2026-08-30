@@ -11,10 +11,18 @@
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/torenaran/VelvetRope/releases/download/v0.3.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/torenaran/VelvetRope/releases/download/v0.3.10/latest.zip",
-    "LastUpdate": "1787970261",
-    "Changelog": "0.3.10 adds optional VIP tiering per venue relationship and neutral category nameplate markers for non-tiered staff, DJs, owners, partners, regulars, and other roles.",
-    "Tags": ["venue", "vip", "roleplay", "utility", "attendance"]
+    "DownloadLinkInstall": "https://github.com/torenaran/VelvetRope/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/torenaran/VelvetRope/releases/latest/download/latest.zip",
+    "Tags": [
+      "venue",
+      "vip",
+      "roleplay",
+      "utility",
+      "attendance"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "Changelog": "0.3.10: Optional VIP tiering and neutral role/category nameplate markers."
   }
 ]
